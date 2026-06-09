@@ -16,8 +16,7 @@ Hi there! I'm a dedicated **Software Engineer** specializing in robust applicati
 
 I have a strong foundation in building everything from enterprise-grade CRM systems—like the **Smart Sales Care platform tailored for Hyundai services**—to highly specialized Ground Control Systems (GCS) for UAVs. Recently, I've expanded my toolkit to leverage **AI Agents** and automated pipelines to supercharge development workflows, alongside publishing open-source libraries for the developer community.
 
-- 🎯 **Core Expertise**: Native Android (Java/Kotlin, Compose), Windows Desktop (C#, WinUI3), and Flutter.
-- 📦 **Open Source**: Creator and maintainer of Flutter packages (e.g., `flutter_overlay_manager`).
+- 🎯 **Core Expertise**: Native Android (Kotlin, Compose).
 - 🤖 **AI & Automation**: Familiar with AI Agents (Codex, Claude Code, Antigravity), Agent Skills, and GitLab CI/CD.
 - 🏗️ **Architecture**: Clean Architecture, scalable project structuring, and native library integration (JNI/NDK).
 - 🛰️ **Domain Experience**: Ground Control Systems (GCS), UAV protocols, and enterprise CRM applications (Smart Sales Care for Hyundai).
