@@ -2,7 +2,7 @@
 
 # 👨‍💻 Nguyen Van An
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Android+%7C+Windows;Open+Source+Contributor;AI+Agent+%26+Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Android;Open+Source+Contributor;AI+Agent+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
 **Software Engineer** • **Mobile Developer** • **Open Source Publisher**
 
