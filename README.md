@@ -50,28 +50,6 @@ A robust, high-performance Ground Control System designed for seamless interacti
 
 </td>
 <td width="50%" valign="top">
-
-### 🚗 Smart Sales Care (Hyundai Services)
-**Enterprise Dealership & CRM Platform**
-
-A comprehensive, cross-platform application developed specifically for Hyundai services to streamline sales operations, manage customer relationships, and enhance dealership workflows.
-
-**Key Features:**
-- 👥 Tailored Customer Relationship Management (CRM) for auto sales
-- 🔄 Seamless data synchronization across mobile and desktop devices
-- 📊 Advanced sales tracking and workflow optimization
-- 📱 Consistent, optimized user experience across form factors
-- 🔒 Secure handling of enterprise dealership data and API integrations
-
-**Tech Stack:**
-- **Platforms**: Android & Windows (Desktop)
-- **Languages**: Flutter, Dart
-- **Backend**: RESTful API integration & secure data transfer
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Technical Skills
