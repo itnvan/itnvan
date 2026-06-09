@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm a dedicated **Software Engineer** specializing in robust application development across **Android, Windows Desktop, and cross-platform environments**. I excel at structuring complex projects using **Clean Architecture** principles to build scalable and high-performance solutions.
+Hi there! I'm a dedicated **Software Engineer** specializing in robust application development across **Android and cross-platform environments**. I excel at structuring complex projects using **Clean Architecture** principles to build scalable and high-performance solutions.
 
 I have a strong foundation in building everything from enterprise-grade CRM systems—like the highly specialized Ground Control Systems (GCS) for UAVs. Recently, I've expanded my toolkit to leverage **AI Agents** and automated pipelines to supercharge development workflows, alongside publishing open-source libraries for the developer community.
 
